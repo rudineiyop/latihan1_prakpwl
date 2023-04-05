@@ -19,7 +19,7 @@
                     </div>
                     <div class="card-body">
                         <div class="dropdown no-arrow mb-4">
-                            <a href="https://id.pinterest.com/search/pins/?q=meme%20ayo&rs=typed" class="btn btn-primary" role="button" data-bs-toggle="button">Facebook Kami</a>
+                            <a href="#" class="btn btn-primary" role="button" data-bs-toggle="button">Facebook Kami</a>
                             <a href="#" class="btn btn-success" role="button" data-bs-toggle="button">Whatsapp Kami</a>
                             <a href="#" class="btn btn-danger" role="button" data-bs-toggle="button">Instagram Kami</a>
                             <a href="#" class="btn btn-info" role="button" data-bs-toggle="button">Twitter Kami</a>

@@ -4,8 +4,12 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MahasiswaControllerr;
 use App\Http\Controllers\admincontroller;
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
 Route::get('/', function () {
-    return view('welcome');
+    return view('/admin/dashboard');
 });
 
 // Route::get('/daftar_mahasiswa','App\Http\Controllers\MahasiswaControllerr@index');
